@@ -1,2 +1,2 @@
-# MyProject
+# MyProject blah bja bla
 myproject
